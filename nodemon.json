@@ -1,0 +1,5 @@
+{
+  "env":{
+    "DB_CONNECTION":"mongodb+srv://pallavi2011:Mumbai28@noderestshop.8qe0g.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  }
+}
